@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RunningApp</string>
+    <string name="google_maps_key">AIzaSyBVOE07WbfVJUoFQUoT6OXeibLm1WkMU-g</string>
+
+    <string-array name="filter_options">
+        <item>Дата</item>
+        <item>Время бега</item>
+        <item>Расстояние</item>
+        <item>Средняя скорость</item>
+        <item>Калорий сожжено</item>
+    </string-array>
+
 </resources>
