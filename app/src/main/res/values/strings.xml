@@ -1,6 +1,22 @@
 <resources>
     <string name="app_name">RunningApp</string>
     <string name="google_maps_key">AIzaSyBVOE07WbfVJUoFQUoT6OXeibLm1WkMU-g</string>
+    <string name="welcome_text">Welcome!\nPlease enter your name and weight.</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="kg">kg</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="_0km">0km</string>
+    <string name="total_time">Total Time</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="total_calories_burned">Total Calories Burned</string>
+    <string name="_0kcal">0kcal</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="_0km_h">0km/h</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="let_s_go_username">Let\'s go, USERNAME!</string>
+    <string name="start">Start</string>
+    <string name="finish_run">Finish Run</string>
 
     <string-array name="filter_options">
         <item>Дата</item>
