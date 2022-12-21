@@ -1,17 +1,14 @@
-package projects.vaid.runningapp
+package projects.vaid.runningapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import dagger.hilt.android.AndroidEntryPoint
+import projects.vaid.runningapp.R
 import projects.vaid.runningapp.database.RunDao
 import javax.inject.Inject
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
-
-    @Inject
-    lateinit var dao: RunDao
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
